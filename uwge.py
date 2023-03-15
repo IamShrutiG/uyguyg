@@ -1,0 +1,2 @@
+#useles
+print("nothingness")
